@@ -2,3 +2,13 @@ numpy
 matplotlib
 pandas
 tensorflow
+scikit-learn
+scikit-image
+scipy
+kaggle
+jupyter
+notebook
+jupyterlab
+ipython
+mlxtend
+ipykernel

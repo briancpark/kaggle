@@ -2,12 +2,12 @@
 A repository to get help me dive into AI/ML!
 
 ## Getting started if using a remote machine
-Make a conda environment in Python 3.6
+Make a conda environment in Python 3.8
 ```
-conda create -n kaggle python=3.6
+conda create -n kaggle python=3.8
 ```
 
-Then activate it and install the necessary dependicies as follows
+Then activate it and install the necessary dependicies as follows. `requirements.txt` has all the common packages that I use for machine learning.
 ```
 conda activate kaggle
 pip3 install -r requirements.txt
